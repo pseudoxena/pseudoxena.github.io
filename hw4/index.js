@@ -10,9 +10,9 @@ const examples = {
   'example1':
       'Alice was beginning to get very tired of sitting by her sister on the bank.',
   'example2':
-      'In the course of time Mr. Earnshaw began to fail. ',
+      'Buda-Pesth seems a wonderful place.',
   'example3':
-      'Mrs. Henry van der Luyden listened in silence to her cousin Mrs. Archer's narrative.'      
+      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
 };
 
 function status(statusText) {
